@@ -1,3 +1,7 @@
+//new code! testing, testing
+
+
+
 // #1 create a variable called 'myName' and assign it to your name as a string
 
 // CODE HERE
